@@ -10,3 +10,6 @@ Download the required modules using :
 
 To serve the dashboard locally, use the command:
 <pre><code> panel serve CO2_Dashboard.ipynb </code></pre>
+
+An Overview of the Dashboard:
+![Dashboard](dashboard.PNG)
